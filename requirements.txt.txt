@@ -1,1 +1,7 @@
-﻿streamlit folium streamlit-folium pandas openai geopy watchdog
+streamlit
+folium 
+streamlit-folium
+pandas
+openai 
+geopy
+watchdog
